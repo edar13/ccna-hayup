@@ -54,7 +54,7 @@ int e1/0
  do sh ip route static
 R4
 config t
- no router eigrp 100
+no router eigrp 100
  Task1: LoadBalacing DHCP Server:
  D1:
 CONFIG T
